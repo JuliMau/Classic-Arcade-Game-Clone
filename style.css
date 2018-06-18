@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+input[type=button] {
+  top: 8px;
+  position: fixed;
+  right: 160px;
+  cursor: pointer;
+  z-index: 99;
+}
